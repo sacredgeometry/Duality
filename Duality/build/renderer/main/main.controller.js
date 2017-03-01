@@ -4,6 +4,7 @@ var app;
     var MainController = (function () {
         function MainController() {
             this.greet = 'Electron + Angularjs says hello!';
+            this.test = "woorter";
         }
         return MainController;
     }());
