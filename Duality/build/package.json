@@ -1,0 +1,15 @@
+{
+  "name": "electron-angular-typescript-dev",
+  "productName": "Electron Angular Typescript Dev",
+  "identifier": "com.example.electron-angular-typescript",
+  "description": "Modified version of Electron Boilerplate",
+  "version": "0.0.0",
+  "author": "Val <val.samonte@gmail.com>",
+  "main": "main.js",
+  "config": {
+    "target": "development"
+  },
+  "dependencies": {
+    "fs-jetpack": "^0.6.5"
+  }
+}
